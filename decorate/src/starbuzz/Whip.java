@@ -1,4 +1,4 @@
-package decorator;
+package starbuzz;
 
 /**
  * 奶泡装饰类

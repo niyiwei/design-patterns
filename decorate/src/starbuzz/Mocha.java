@@ -1,4 +1,4 @@
-package decorator;
+package starbuzz;
 
 /**
  * 摩卡装饰者类

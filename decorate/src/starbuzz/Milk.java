@@ -1,4 +1,4 @@
-package decorator;
+package starbuzz;
 
 /**
  * 牛奶装饰者类

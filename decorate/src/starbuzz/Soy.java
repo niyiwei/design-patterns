@@ -1,4 +1,4 @@
-package decorator;
+package starbuzz;
 
 /**
  * Soy装饰者类
